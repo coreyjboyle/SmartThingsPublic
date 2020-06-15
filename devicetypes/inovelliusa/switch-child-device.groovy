@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "Switch Child Device", namespace: "inovelliUSA", author: "Eric Maycock", vid: "generic-switch") {
+	definition (name: "Switch Child Device", namespace: "inovelliUSA", author: "Inovelli USA", vid: "generic-switch") {
 		capability "Switch"
 		capability "Actuator"
 		capability "Sensor"
